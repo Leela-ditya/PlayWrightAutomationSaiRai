@@ -8,7 +8,7 @@ let isActive : boolean = false;
 
 let numberArry : number[] = [1,2,3];
 
-let data : any = "this could be anything";
+let data : any = "this could be anything...";
 data =42;
 function add(a:number,b:number): number
 {
